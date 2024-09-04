@@ -23,4 +23,5 @@ const Background = ({playStatus, heroCount}) => {
   return <img src={image3} className='background'/>
  }
 }
+
 export default Background
